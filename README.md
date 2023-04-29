@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+<!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
+- 🔭 I am a Software Engineer for [CI&T][https://us.ciandt.com] working on [GCP][https://cloud.google.com/].
+- 👯 I’m looking to collaborate on open source project
+- 📫 How to reach me - [<img align="left" alt="overnin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/miguel-pereira-aa64b498/] at Linkedin
+
+#### Stats 
+
+![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguelhbrito&show_icons=true)
+
 <!--
 **miguelhbrito/miguelhbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

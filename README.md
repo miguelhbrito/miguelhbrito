@@ -7,9 +7,13 @@
 </p>
 <!-- - I'm a lead operation engineer for [CloudBees][cloudbees-website] -->
 <p align='center'>
-  - 🔭 I am a Software Engineer for [CI&T](https://us.ciandt.com) working on [GCP](https://cloud.google.com/).
-  - 👯 I’m looking to collaborate on open source project
+  🔭 I am a Software Engineer for <a href='https://us.ciandt.com'>CI&T</a> working on <a href='[https://us.ciandt.com](https://cloud.google.com/)'>GCP</a>
 </p>
+
+<p align='center'>
+  👯 I’m looking to collaborate on open source project
+</p>
+
 
 <p align='center'>
   
